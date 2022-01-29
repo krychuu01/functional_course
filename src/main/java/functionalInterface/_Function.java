@@ -6,10 +6,6 @@ import java.util.function.Function;
 public class _Function {
 
     public static void main(String[] args) {
-        //123123123
-        int asd = 4161;
-        int a = 5;
-        int b = 23;
         // Function takes 1 argument and produces 1 result
         int increment = incrementByOne(1);
         System.out.println(increment);
